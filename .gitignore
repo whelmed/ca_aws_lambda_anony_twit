@@ -99,3 +99,12 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.vagrant
+.vscode
+venv
+ubuntu-xenial*
+*.zip
+.DS_Store
+credentials
+front_end/*
